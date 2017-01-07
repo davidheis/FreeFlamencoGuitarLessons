@@ -1,0 +1,335 @@
+ 
+     body{
+    background: url(guitar2.jpg) no-repeat center center fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    min-height: 100%;
+    
+}
+/*change breadcrumb width and text*/
+ol.breadcrumb{
+    width: 220px;
+}
+ol.breadcrumb li a{
+    color: black;
+}
+html{
+    height: 100%;
+    width: 100%;
+    
+   } 
+h1{
+    text-align: center;
+    color: #337ab7;
+    margin: 20px;      
+}
+.jumbotron{
+    width: 70%;  
+    margin: 0 auto;
+}
+.whiten{
+    color: white;
+    text-shadow: 2px 2px 4px #000000,
+        4px 4px 4px #363636,
+        5px 5px 4px rgba(0,0,0,0.9);
+}
+#buyCapo h3{
+   
+    margin: 50px auto;
+    text-align: center;
+    font-size: 23px;
+    
+     
+}
+#buyCapo:hover{
+    text-decoration: none;
+    color: azure;
+    
+}
+ul .dropdown-menu{
+    text-align: center;
+}
+/*pic of zither on the spanish guitar page*/
+#zitherDiv{
+    float: left;
+    height: 300px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+#zitherDiv img, #basReliefDiv img, #latinGuitarDiv img{
+    border-radius: 10px;
+   
+}
+#basReliefDiv{
+    float: right;
+    height: 330px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 280px;
+}
+#latinGuitarDiv{
+    height: 260px;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 280px;
+}
+/*end of pics of article spanish guitar page*/
+/*pics on guitar sale page*/
+#h1FlamencoGuitar{
+    margin-bottom: 50px;
+}
+#penaMaestro, #penaTaranto2015, #penaTaranto2016{
+    background-color: white;
+    height: 1100px;
+    margin: 100px auto;
+    width: 340px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#penaTaranto2016 img{
+   width: 100%;
+    margin-bottom: 10px;
+}
+#penaTaranto2015 img{
+    width: 100%;
+    margin-bottom: 10px;
+}
+#penaMaestro img{
+  width: 100%;
+    margin-bottom: 10px;
+}
+.thumbnail{
+    
+    background-color: rgba(255,255,255,0.9);
+}
+
+hr{
+    color: white;
+    border-top: 1px solid rgba(255,255,255,0.2);
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    margin: 50px;
+    
+}
+.paypalBadge{
+    background-color: rgba(255,255,255,.9);
+    border-radius: 10px;
+    box-shadow:  2px 2px 4px #000000,
+        4px 4px 4px #363636,
+        5px 5px 4px rgba(0,0,0,0.9);
+}
+#clickCapoTip{
+    color: white;
+    text-shadow: 2px 2px 4px #000000,
+        4px 4px 4px #363636,
+        5px 5px 4px rgba(0,0,0,0.9);
+}
+#lessonsTitle, #lessonsTitle:hover{
+     cursor: default;
+    color: white;
+    
+    
+}
+#jumboMovingToJerez{
+    float: none;
+}
+
+img[src='images/movingtospain.jpg']{
+    margin: 0 auto;
+}
+
+
+.lessonsTitle{
+    color: white;
+    text-shadow: 2px 2px 4px #000000,
+        4px 4px 4px #363636,
+        5px 5px 4px rgba(0,0,0,0.9); 
+   
+   
+}
+.lessonsTitle:hover{
+    color: azure;
+    text-decoration: none;
+   
+}
+.navbar-inverse .navbar-nav>li>a{
+    color: white;
+}
+.navbar-inverse .navbar-brand{
+    color: white;
+}
+#headingList li{
+    list-style-type: none; 
+    font-size: 14px;
+    text-align: center;
+    font-family: monospace;
+    background-color: aqua
+}
+#clearfixDiv{
+    margin-top: 70px;
+}
+#pacoImg{
+    width: 600px
+}
+.mainTitle{
+    text-align: center;
+    color: #337ab7;
+    margin: 20px;
+}
+#paypal-banner{
+    width: 100%;
+}
+.iframe{
+    width: 100%; 
+    height: 45vw;
+}
+#bottombuttons{
+    border-top: 1px solid black;
+}
+/* HEADING AND FOOTER STYLING */
+
+#footerBlock{
+    clear: both;
+}
+#header-nav{
+    border-radius: 0 0 6px 6px;
+    background-color: #eee;
+}
+.navbuttons a {
+    color: #fff; 
+}
+.glyphicon-copyright-mark + cite, .glyphicon-copyright-mark{
+    font-size: 12px;   
+}
+#article-btn{
+    margin-top: 1px;
+}
+.navbuttons a:hover{
+    text-decoration: none;
+    color: #fff;
+}
+.headerbuttons{
+    padding: 0px;
+    margin: 10px 
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+    text-decoration: none;  
+}
+.fa {
+    font-size: 30px;
+}
+.footerlist{
+  list-style-type: none;
+    
+}
+
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9{
+    float:;
+}
+.shopPhoto{
+    overflow: hidden;
+    height: 325px;
+}
+.shopPhoto img{
+    max-height: 100%; 
+    margin: 0 auto;
+    border-radius: 10px
+}
+
+@media (min-width: 768px){
+    .containParagraphWidth{
+    width: 50vw;
+    }
+}
+/*allign the sidebar scroll to be inline with palo buttons */
+/*Small screen size*/
+@media(min-width:768px) and (max-width:991px){
+        .pre-scrollable{
+    max-height: 650px;
+    } 
+}  
+@media(min-width:992px){
+    .clearfixClass{
+        clear: both;
+    }
+}
+/*extra small size⁄*/
+@media(max-width:767px){
+    .jumbotron{
+    width: 100%;
+}
+    h2#h1title{
+        font-size: 14px;
+        margin-top: 0px;
+    }
+    .navbar-brand{
+        font-size: .9em; 
+    }
+    ul.nav.navbar-nav.text-center li{
+    margin: 15px;
+}
+}
+/* END OF HEADING AND FOOTER STYLING */
+
+
+/*thumbnails on flamenco capo page*/
+.thumbnail {
+    height: 450px;
+    
+    border-radius: 30px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 4px #000000,
+        4px 4px 4px #363636,
+        5px 5px 4px rgba(0,0,0,0.9);
+}
+.thumbnailContainer{
+    padding: 50px;
+    margin: 0 auto;
+}
+.thumbnail img{
+    max-height: 290px;
+    max-width: 200px   
+}
+
+/*central buttons */
+.palobuttons{
+    padding: 18px 50px;
+    margin: 0px auto; 
+    text-align: center;
+    height: 150px;
+    
+   
+}
+
+@media(max-width: 375px){
+    .col-xxs-12 {
+         position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+        width: 100%;
+        float: left;   
+    }
+    .palobuttons a {
+    font-size: .8em;
+}
+    #aboutSection{
+        font-size: 14px;
+    }
+}
+/*stop broken text appearing next to zither when screen is small*/
+@media(max-width: 470px){
+    #zitherDiv{
+        margin-right: 40px;
+    }
+    #basReliefDiv{
+        margin-left: 100px;
+    }
+    #latinGuitarDiv{
+        margin-right: 100px;
+    }
+}
+    
+   
